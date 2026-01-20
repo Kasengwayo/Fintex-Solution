@@ -19,6 +19,9 @@ Fintex Solutions is positioned as a dynamic trading and procurement business tha
 
 > ⚠️ This repository does not contain the full WordPress installation files. It showcases the project structure and documentation. Full site exports can be shared separately if needed.
 
+## Screenshots
+- Attached
+
 ## 🌍 Live Site
 
 👉 https://www.fintexsolutions.co.za/
